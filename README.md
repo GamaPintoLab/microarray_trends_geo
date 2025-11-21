@@ -62,8 +62,4 @@ If you use this code or adapt the workflow, please cite:
 	•	Edgar et al. (2002). Gene Expression Omnibus: NCBI gene expression and hybridization array data repository. Nucleic Acids Research.
 	•	Winter (2017). rentrez: an R package for the NCBI eUtils API. The R Journal.
 
-DOI:
-
-⸻
-
-If you’d like, I can also produce a shorter or more formal version depending on the tone of the book chapter.
+DOI: 
